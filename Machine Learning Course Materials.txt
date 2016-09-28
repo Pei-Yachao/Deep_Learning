@@ -1,1 +1,2 @@
 Machine Learning Course Materials:http://cs229.stanford.edu/
+http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
